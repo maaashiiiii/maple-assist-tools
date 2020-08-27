@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="acff21aa-3580-4182-9638-792ba514e3be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="test">
+      <created>1598537138701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598537138701</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1148" y="427" key="#通知" timestamp="1598537215862">
+      <screen x="0" y="23" width="2048" height="1064" />
+    </state>
+    <state x="1148" y="427" key="#通知/0.23.2048.1064/-1920.212.1920.1057@0.23.2048.1064" timestamp="1598537215862" />
+    <state width="1235" height="290" key="GridCell.Tab.0.bottom" timestamp="1598537141432">
+      <screen x="0" y="23" width="2048" height="1064" />
+    </state>
+    <state width="1235" height="290" key="GridCell.Tab.0.bottom/0.23.2048.1064/-1920.212.1920.1057@0.23.2048.1064" timestamp="1598537141432" />
+    <state width="1235" height="290" key="GridCell.Tab.0.center" timestamp="1598537141431">
+      <screen x="0" y="23" width="2048" height="1064" />
+    </state>
+    <state width="1235" height="290" key="GridCell.Tab.0.center/0.23.2048.1064/-1920.212.1920.1057@0.23.2048.1064" timestamp="1598537141431" />
+    <state width="1235" height="290" key="GridCell.Tab.0.left" timestamp="1598537141430">
+      <screen x="0" y="23" width="2048" height="1064" />
+    </state>
+    <state width="1235" height="290" key="GridCell.Tab.0.left/0.23.2048.1064/-1920.212.1920.1057@0.23.2048.1064" timestamp="1598537141430" />
+    <state width="1235" height="290" key="GridCell.Tab.0.right" timestamp="1598537141432">
+      <screen x="0" y="23" width="2048" height="1064" />
+    </state>
+    <state width="1235" height="290" key="GridCell.Tab.0.right/0.23.2048.1064/-1920.212.1920.1057@0.23.2048.1064" timestamp="1598537141432" />
+    <state x="1051" y="478" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598537173539">
+      <screen x="0" y="23" width="2048" height="1064" />
+    </state>
+    <state x="1051" y="478" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2048.1064/-1920.212.1920.1057@0.23.2048.1064" timestamp="1598537173539" />
+  </component>
+</project>
