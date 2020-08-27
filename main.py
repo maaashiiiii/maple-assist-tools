@@ -29,7 +29,10 @@ def root():
                    datetime.datetime(2018, 1, 3, 11, 0, 0),
                    ]
 
-    return render_template('index.html', times=dummy_times)
+    ponpon: str = '古戦場走れ'
+
+    return render_template('index.html', times=dummy_times, onaka=ponpon)
+
 
 
 if __name__ == '__main__':
